@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="payssion" version="20000">
+  <word key="__app_payssion" js="0">Payssion Gateway</word>
+  <word key="gateway__Payssion" js="0">Payssion</word>
+  <word key="payssion_api_key" js="0">API Key</word>
+  <word key="payssion_api_key_desc" js="0"><![CDATA[API Key of your <a href='https://www.payssion.com/account/app' target='_blank'>Payssion APP</a>]]></word>
+  <word key="payssion_secret_key" js="0">Secret Key</word>
+  <word key="payssion_secret_key_desc" js="0"><![CDATA[Secret Key of your <a href='https://www.payssion.com/account/app' target='_blank'>Payssion APP</a>]]></word>
+  <word key="payssion_payment_methods" js="0">Payment Methods</word>
+  <word key="payssion_payment_methods_desc" js="0">Payment Methods that you want to accept</word>
+  <word key="payssion_pmid" js="0">Payment Method</word>
+ </app>
+</language>

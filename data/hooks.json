@@ -1,0 +1,6 @@
+{
+    "RegisterGatewayHook": {
+        "type": "C",
+        "class": "\\IPS\\nexus\\Gateway"
+    }
+}
